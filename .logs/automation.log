@@ -1,0 +1,40 @@
+2024-12-06 19:09:11 [main] INFO  com.oc.qa.TestCases.RegistrationTest - *** Registration test started ***
+2024-12-06 19:09:11 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on My Account
+2024-12-06 19:09:11 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on Register
+2024-12-06 19:09:11 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter first, last, email and Telephone
+2024-12-06 19:09:12 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter password
+2024-12-06 19:09:12 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter confirm password
+2024-12-06 19:09:12 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Click on privacy
+2024-12-06 19:09:12 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Click on continue button
+2024-12-06 19:09:12 [main] INFO  com.oc.qa.TestCases.RegistrationTest - confirmation message
+2024-12-06 19:09:12 [main] INFO  com.oc.qa.TestCases.RegistrationTest - ****Registration testing completed*****
+2024-12-06 19:09:35 [main] INFO  com.oc.qa.TestCases.RegistrationTest - *** Registration test started ***
+2024-12-06 19:09:35 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on My Account
+2024-12-06 19:09:35 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on Register
+2024-12-06 19:09:35 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter first, last, email and Telephone
+2024-12-06 19:09:35 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter password
+2024-12-06 19:09:36 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter confirm password
+2024-12-06 19:09:36 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Click on privacy
+2024-12-06 19:09:36 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Click on continue button
+2024-12-06 19:09:36 [main] INFO  com.oc.qa.TestCases.RegistrationTest - confirmation message
+2024-12-06 19:09:36 [main] INFO  com.oc.qa.TestCases.RegistrationTest - ****Registration testing completed*****
+2024-12-06 19:12:15 [main] INFO  com.oc.qa.TestCases.RegistrationTest - *** Registration test started ***
+2024-12-06 19:12:15 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on My Account
+2024-12-06 19:12:15 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on Register
+2024-12-06 19:12:15 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter first, last, email and Telephone
+2024-12-06 19:12:16 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter password
+2024-12-06 19:12:16 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter confirm password
+2024-12-06 19:12:16 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Click on privacy
+2024-12-06 19:12:16 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Click on continue button
+2024-12-06 19:12:16 [main] INFO  com.oc.qa.TestCases.RegistrationTest - confirmation message
+2024-12-06 19:12:16 [main] INFO  com.oc.qa.TestCases.RegistrationTest - ****Registration testing completed*****
+2024-12-06 19:12:38 [main] INFO  com.oc.qa.TestCases.RegistrationTest - *** Registration test started ***
+2024-12-06 19:12:38 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on My Account
+2024-12-06 19:12:39 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on Register
+2024-12-06 19:12:39 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter first, last, email and Telephone
+2024-12-06 19:12:39 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter password
+2024-12-06 19:12:39 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter confirm password
+2024-12-06 19:12:39 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Click on privacy
+2024-12-06 19:12:39 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Click on continue button
+2024-12-06 19:12:40 [main] INFO  com.oc.qa.TestCases.RegistrationTest - confirmation message
+2024-12-06 19:12:40 [main] INFO  com.oc.qa.TestCases.RegistrationTest - ****Registration testing completed*****

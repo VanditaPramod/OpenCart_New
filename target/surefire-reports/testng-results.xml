@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-12T23:14:35 IST" name="Master Suite" finished-at="2024-12-12T23:14:47 IST" duration-ms="12415">
+    <groups>
+      <group name="Master">
+        <method signature="LoginTest.Acc_LoginTest()[pri:0, instance:com.oc.qa.TestCases.LoginTest@2611b9a3]" name="Acc_LoginTest" class="com.oc.qa.TestCases.LoginTest"/>
+        <method signature="RegistrationTest.Acc_RegistrationTest()[pri:0, instance:com.oc.qa.TestCases.RegistrationTest@4b3c354a]" name="Acc_RegistrationTest" class="com.oc.qa.TestCases.RegistrationTest"/>
+      </group> <!-- Master -->
+      <group name="Sanity">
+        <method signature="LoginTest.Acc_LoginTest()[pri:0, instance:com.oc.qa.TestCases.LoginTest@2611b9a3]" name="Acc_LoginTest" class="com.oc.qa.TestCases.LoginTest"/>
+      </group> <!-- Sanity -->
+      <group name="Regression">
+        <method signature="RegistrationTest.Acc_RegistrationTest()[pri:0, instance:com.oc.qa.TestCases.RegistrationTest@4b3c354a]" name="Acc_RegistrationTest" class="com.oc.qa.TestCases.RegistrationTest"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test started-at="2024-12-12T23:14:35 IST" name="Test" finished-at="2024-12-12T23:14:47 IST" duration-ms="12415">
+      <class name="com.oc.qa.TestCases.RegistrationTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:com.oc.qa.TestCases.RegistrationTest@4b3c354a]" started-at="2024-12-12T23:14:35 IST" name="setup" finished-at="2024-12-12T23:14:40 IST" duration-ms="4633" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Acc_RegistrationTest()[pri:0, instance:com.oc.qa.TestCases.RegistrationTest@4b3c354a]" started-at="2024-12-12T23:14:40 IST" name="Acc_RegistrationTest" finished-at="2024-12-12T23:14:42 IST" duration-ms="2537" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Acc_RegistrationTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.oc.qa.TestCases.RegistrationTest@4b3c354a]" started-at="2024-12-12T23:14:42 IST" name="teardown" finished-at="2024-12-12T23:14:43 IST" duration-ms="303" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.oc.qa.TestCases.RegistrationTest -->
+      <class name="com.oc.qa.TestCases.LoginTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:com.oc.qa.TestCases.LoginTest@2611b9a3]" started-at="2024-12-12T23:14:43 IST" name="setup" finished-at="2024-12-12T23:14:45 IST" duration-ms="2691" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Acc_LoginTest()[pri:0, instance:com.oc.qa.TestCases.LoginTest@2611b9a3]" started-at="2024-12-12T23:14:45 IST" name="Acc_LoginTest" finished-at="2024-12-12T23:14:47 IST" duration-ms="1611" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Acc_LoginTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.oc.qa.TestCases.LoginTest@2611b9a3]" started-at="2024-12-12T23:14:47 IST" name="teardown" finished-at="2024-12-12T23:14:47 IST" duration-ms="262" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.oc.qa.TestCases.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Master Suite -->
+</testng-results>
