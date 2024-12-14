@@ -18,9 +18,10 @@
 	<parameter name="OS" value="Windows"></parameter>
 	  <parameter name="Browser" value="chrome"></parameter> 	  
     <classes>
-     <class name="com.oc.qa.TestCases.RegistrationTest"/> 
-      <class name="com.oc.qa.TestCases.LoginTest"/> 
-  <!--     <class name="com.oc.qa.TestCases.LoginTestDDT"/> -->
+      <!--	<class name="com.oc.qa.TestCases.RegistrationTest"/> 
+      	<class name="com.oc.qa.TestCases.LoginTest"/> 
+      <class name="com.oc.qa.TestCases.LoginTestDDT"/> -->
+   		<class name="com.oc.qa.TestCases.SearchProductTest"/> 
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

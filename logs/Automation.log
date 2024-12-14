@@ -1,729 +1,85 @@
-2024-12-06 19:28:19 [main] INFO  com.oc.qa.TestCases.RegistrationTest - *** Registration test started ***
-2024-12-06 19:28:19 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on My Account
-2024-12-06 19:28:20 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on Register
-2024-12-06 19:28:20 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter first, last, email and Telephone
-2024-12-06 19:28:20 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter password
-2024-12-06 19:28:20 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter confirm password
-2024-12-06 19:28:20 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Click on privacy
-2024-12-06 19:28:20 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Click on continue button
-2024-12-06 19:28:21 [main] INFO  com.oc.qa.TestCases.RegistrationTest - confirmation message
-2024-12-06 19:28:21 [main] INFO  com.oc.qa.TestCases.RegistrationTest - ****Registration testing completed*****
-2024-12-06 20:05:51 [main] INFO  com.oc.qa.TestCases.RegistrationTest - *** Registration test started ***
-2024-12-06 20:05:51 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on My Account
-2024-12-06 20:05:51 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on Register
-2024-12-06 20:05:51 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter first, last, email and Telephone
-2024-12-06 20:05:52 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter password
-2024-12-06 20:05:52 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter confirm password
-2024-12-06 20:05:52 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Click on privacy
-2024-12-06 20:05:52 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Click on continue button
-2024-12-06 20:05:52 [main] INFO  com.oc.qa.TestCases.RegistrationTest - confirmation message
-2024-12-06 20:24:36 [main] INFO  com.oc.qa.TestCases.RegistrationTest - *** Registration test started ***
-2024-12-06 20:24:36 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on My Account
-2024-12-06 20:24:36 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on Register
-2024-12-06 20:24:36 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter first, last, email and Telephone
-2024-12-06 20:24:36 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter password
-2024-12-06 20:24:37 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter confirm password
-2024-12-06 20:24:37 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Click on privacy
-2024-12-06 20:24:37 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Click on continue button
-2024-12-06 20:24:37 [main] INFO  com.oc.qa.TestCases.RegistrationTest - confirmation message
-2024-12-06 20:24:37 [main] ERROR com.oc.qa.TestCases.RegistrationTest - Test Failed
-2024-12-06 20:24:37 [main] INFO  com.oc.qa.TestCases.RegistrationTest - ****Registration testing completed*****
-2024-12-06 20:57:39 [main] INFO  com.oc.qa.TestCases.RegistrationTest - *** Registration test started ***
-2024-12-06 20:57:40 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on My Account
-2024-12-06 20:57:40 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on Register
-2024-12-06 20:57:40 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter first, last, email and Telephone
-2024-12-06 20:57:40 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter password
-2024-12-06 20:57:40 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter confirm password
-2024-12-06 20:57:40 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Click on privacy
-2024-12-06 20:57:41 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Click on continue button
-2024-12-06 20:57:41 [main] INFO  com.oc.qa.TestCases.RegistrationTest - confirmation message
-2024-12-06 20:57:41 [main] ERROR com.oc.qa.TestCases.RegistrationTest - Test Failed
-2024-12-06 20:57:41 [main] INFO  com.oc.qa.TestCases.RegistrationTest - ****Registration testing completed*****
-2024-12-06 20:59:12 [main] INFO  com.oc.qa.TestCases.RegistrationTest - *** Registration test started ***
-2024-12-06 21:00:32 [main] INFO  com.oc.qa.TestCases.RegistrationTest - *** Registration test started ***
-2024-12-06 21:04:42 [main] INFO  com.oc.qa.TestCases.RegistrationTest - *** Registration test started ***
-2024-12-06 21:08:00 [main] INFO  com.oc.qa.TestCases.RegistrationTest - *** Registration test started ***
-2024-12-06 21:08:00 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on My Account
-2024-12-06 21:08:00 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on Register
-2024-12-06 21:08:00 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter first, last, email and Telephone
-2024-12-06 21:08:00 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter password
-2024-12-06 21:08:01 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter confirm password
-2024-12-06 21:08:01 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Click on privacy
-2024-12-06 21:08:01 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Click on continue button
-2024-12-06 21:08:01 [main] INFO  com.oc.qa.TestCases.RegistrationTest - confirmation message
-2024-12-06 21:08:01 [main] ERROR com.oc.qa.TestCases.RegistrationTest - Test Failed
-2024-12-06 21:08:01 [main] INFO  com.oc.qa.TestCases.RegistrationTest - ****Registration testing completed*****
-2024-12-06 21:08:40 [main] INFO  com.oc.qa.TestCases.RegistrationTest - *** Registration test started ***
-2024-12-06 21:09:55 [main] INFO  com.oc.qa.TestCases.RegistrationTest - *** Registration test started ***
-2024-12-06 21:09:55 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on My Account
-2024-12-06 21:09:56 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on Register
-2024-12-06 21:09:56 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter first, last, email and Telephone
-2024-12-06 21:09:56 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter password
-2024-12-06 21:09:56 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter confirm password
-2024-12-06 21:09:56 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Click on privacy
-2024-12-06 21:09:56 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Click on continue button
-2024-12-06 21:09:57 [main] INFO  com.oc.qa.TestCases.RegistrationTest - confirmation message
-2024-12-06 21:09:57 [main] ERROR com.oc.qa.TestCases.RegistrationTest - Test Failed
-2024-12-06 21:09:57 [main] INFO  com.oc.qa.TestCases.RegistrationTest - ****Registration testing completed*****
-2024-12-06 21:20:47 [main] INFO  com.oc.qa.TestCases.RegistrationTest - *** Registration test started ***
-2024-12-06 21:20:47 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on My Account
-2024-12-06 21:20:47 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on Register
-2024-12-06 21:20:47 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter first, last, email and Telephone
-2024-12-06 21:20:48 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter password
-2024-12-06 21:20:48 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter confirm password
-2024-12-06 21:20:48 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Click on privacy
-2024-12-06 21:20:48 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Click on continue button
-2024-12-06 21:20:49 [main] INFO  com.oc.qa.TestCases.RegistrationTest - confirmation message
-2024-12-06 21:20:49 [main] INFO  com.oc.qa.TestCases.RegistrationTest - ****Registration testing completed*****
-2024-12-06 21:20:52 [main] INFO  com.oc.qa.TestCases.RegistrationTest - *** Registration test started ***
-2024-12-06 21:20:52 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on My Account
-2024-12-06 21:20:53 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on Register
-2024-12-06 21:20:53 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter first, last, email and Telephone
-2024-12-06 21:20:53 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter password
-2024-12-06 21:20:53 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter confirm password
-2024-12-06 21:20:53 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Click on privacy
-2024-12-06 21:20:53 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Click on continue button
-2024-12-06 21:20:54 [main] INFO  com.oc.qa.TestCases.RegistrationTest - confirmation message
-2024-12-06 21:20:54 [main] INFO  com.oc.qa.TestCases.RegistrationTest - ****Registration testing completed*****
-2024-12-06 21:21:01 [main] INFO  com.oc.qa.TestCases.RegistrationTest - *** Registration test started ***
-2024-12-06 21:21:01 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on My Account
-2024-12-06 21:21:01 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on Register
-2024-12-06 21:21:01 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter first, last, email and Telephone
-2024-12-06 21:21:01 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter password
-2024-12-06 21:21:01 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter confirm password
-2024-12-06 21:21:01 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Click on privacy
-2024-12-06 21:21:02 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Click on continue button
-2024-12-06 21:21:02 [main] INFO  com.oc.qa.TestCases.RegistrationTest - confirmation message
-2024-12-06 21:21:02 [main] INFO  com.oc.qa.TestCases.RegistrationTest - ****Registration testing completed*****
-2024-12-06 21:22:19 [TestNG-tests-1] INFO  com.oc.qa.TestCases.RegistrationTest - *** Registration test started ***
-2024-12-06 21:22:19 [TestNG-tests-2] INFO  com.oc.qa.TestCases.RegistrationTest - *** Registration test started ***
-2024-12-06 21:22:19 [TestNG-tests-1] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on My Account
-2024-12-06 21:22:19 [TestNG-tests-2] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on My Account
-2024-12-06 21:22:19 [TestNG-tests-1] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on Register
-2024-12-06 21:22:19 [TestNG-tests-1] INFO  com.oc.qa.TestCases.RegistrationTest - Enter first, last, email and Telephone
-2024-12-06 21:22:20 [TestNG-tests-2] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on Register
-2024-12-06 21:22:20 [TestNG-tests-2] INFO  com.oc.qa.TestCases.RegistrationTest - Enter first, last, email and Telephone
-2024-12-06 21:22:20 [TestNG-tests-1] INFO  com.oc.qa.TestCases.RegistrationTest - Enter password
-2024-12-06 21:22:20 [TestNG-tests-2] INFO  com.oc.qa.TestCases.RegistrationTest - Enter password
-2024-12-06 21:22:20 [TestNG-tests-1] INFO  com.oc.qa.TestCases.RegistrationTest - Enter confirm password
-2024-12-06 21:22:20 [TestNG-tests-1] INFO  com.oc.qa.TestCases.RegistrationTest - Click on privacy
-2024-12-06 21:22:20 [TestNG-tests-2] INFO  com.oc.qa.TestCases.RegistrationTest - Enter confirm password
-2024-12-06 21:22:20 [TestNG-tests-1] INFO  com.oc.qa.TestCases.RegistrationTest - Click on continue button
-2024-12-06 21:22:20 [TestNG-tests-2] INFO  com.oc.qa.TestCases.RegistrationTest - Click on privacy
-2024-12-06 21:22:21 [TestNG-tests-2] INFO  com.oc.qa.TestCases.RegistrationTest - Click on continue button
-2024-12-06 21:22:21 [TestNG-tests-1] INFO  com.oc.qa.TestCases.RegistrationTest - confirmation message
-2024-12-06 21:22:21 [TestNG-tests-2] INFO  com.oc.qa.TestCases.RegistrationTest - confirmation message
-2024-12-06 21:22:21 [TestNG-tests-1] INFO  com.oc.qa.TestCases.RegistrationTest - ****Registration testing completed*****
-2024-12-06 21:22:21 [TestNG-tests-2] INFO  com.oc.qa.TestCases.RegistrationTest - ****Registration testing completed*****
-2024-12-06 21:22:24 [TestNG-tests-3] INFO  com.oc.qa.TestCases.RegistrationTest - *** Registration test started ***
-2024-12-06 21:22:24 [TestNG-tests-3] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on My Account
-2024-12-06 21:22:24 [TestNG-tests-3] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on Register
-2024-12-06 21:22:24 [TestNG-tests-3] INFO  com.oc.qa.TestCases.RegistrationTest - Enter first, last, email and Telephone
-2024-12-06 21:22:25 [TestNG-tests-3] INFO  com.oc.qa.TestCases.RegistrationTest - Enter password
-2024-12-06 21:22:25 [TestNG-tests-3] INFO  com.oc.qa.TestCases.RegistrationTest - Enter confirm password
-2024-12-06 21:22:25 [TestNG-tests-3] INFO  com.oc.qa.TestCases.RegistrationTest - Click on privacy
-2024-12-06 21:22:25 [TestNG-tests-3] INFO  com.oc.qa.TestCases.RegistrationTest - Click on continue button
-2024-12-06 21:22:25 [TestNG-tests-3] INFO  com.oc.qa.TestCases.RegistrationTest - confirmation message
-2024-12-06 21:22:25 [TestNG-tests-3] INFO  com.oc.qa.TestCases.RegistrationTest - ****Registration testing completed*****
-2024-12-06 21:55:34 [main] INFO  com.oc.qa.TestCases.RegistrationTest - *** Registration test started ***
-2024-12-06 21:55:34 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on My Account
-2024-12-06 21:55:34 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on Register
-2024-12-06 21:55:34 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter first, last, email and Telephone
-2024-12-06 21:55:34 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter password
-2024-12-06 21:55:34 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter confirm password
-2024-12-06 21:55:35 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Click on privacy
-2024-12-06 21:55:35 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Click on continue button
-2024-12-06 21:55:35 [main] INFO  com.oc.qa.TestCases.RegistrationTest - confirmation message
-2024-12-06 21:55:35 [main] INFO  com.oc.qa.TestCases.RegistrationTest - ****Registration testing completed*****
-2024-12-08 21:49:38 [main] INFO  com.oc.qa.TestCases.LoginTest - *** Login test started ***
-2024-12-08 21:49:38 [main] INFO  com.oc.qa.TestCases.LoginTest - Clicked on My Account
-2024-12-08 21:49:38 [main] INFO  com.oc.qa.TestCases.LoginTest - Clicked on Login button
-2024-12-08 21:49:39 [main] INFO  com.oc.qa.TestCases.LoginTest - Enter an Email
-2024-12-08 21:49:39 [main] INFO  com.oc.qa.TestCases.LoginTest - Entered Password
-2024-12-08 21:49:39 [main] INFO  com.oc.qa.TestCases.LoginTest - Clicked on Login button
-2024-12-09 00:17:49 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+2024-12-14 15:39:38 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
   C:\Users\Vandita\Desktop\eclipse-workspace\OpenCart\Master.xml
 
-2024-12-09 00:17:53 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
-2024-12-09 00:17:53 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
-2024-12-09 00:17:54 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-09 00:17:54 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Enter an Email
-2024-12-09 00:17:54 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Entered Password
-2024-12-09 00:17:54 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-09 00:18:05 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
-2024-12-09 00:18:05 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
-2024-12-09 00:18:05 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-09 00:18:15 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
-2024-12-09 00:18:15 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
-2024-12-09 00:18:15 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-09 00:18:25 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
-2024-12-09 00:18:25 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
-2024-12-09 00:18:25 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-09 00:18:35 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
-2024-12-09 00:18:35 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
-2024-12-09 00:18:35 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-09 00:37:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
-2024-12-09 00:37:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
-2024-12-09 00:37:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-09 00:37:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-09 00:37:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-09 00:37:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-09 00:37:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-09 00:37:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-09 00:37:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
-2024-12-09 00:37:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 19 ms.
-2024-12-09 00:37:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-09 00:37:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
-2024-12-09 00:37:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-09 00:37:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-09 00:37:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-09 00:37:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-09 00:37:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-09 00:37:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-09 00:37:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-09 00:37:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-09 00:37:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-09 00:37:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-09 00:37:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-09 00:37:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-09 00:37:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
-2024-12-09 00:37:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-09 00:37:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-09 00:37:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-09 00:37:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-09 00:37:45 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-09 00:37:45 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\Vandita\AppData\Local\Temp\testng-eclipse-95743769\testng-customsuite.xml
-
-2024-12-09 00:37:45 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
-2024-12-09 00:37:47 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@7a93b263: 38 ms
-2024-12-09 00:37:47 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@2babf189: 69 ms
-2024-12-09 00:37:47 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@34819867: 14 ms
-2024-12-09 00:37:47 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@1fba386c: 15 ms
-2024-12-09 00:37:47 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@43a51d00: 14 ms
-2024-12-09 00:37:47 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@75308740: 8 ms
-2024-12-09 00:37:47 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5acc9fdf: 0 ms
-2024-12-09 00:39:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-09 00:39:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
-2024-12-09 00:39:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-09 00:39:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-09 00:39:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-09 00:39:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-09 00:39:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-09 00:39:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-09 00:39:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
-2024-12-09 00:39:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 14 ms.
-2024-12-09 00:39:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-09 00:39:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
-2024-12-09 00:39:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-09 00:39:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-09 00:39:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-09 00:39:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-09 00:39:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-09 00:39:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-09 00:39:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-09 00:39:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-09 00:39:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-09 00:39:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-09 00:39:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-09 00:39:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-09 00:39:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-09 00:39:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-09 00:39:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-09 00:39:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-09 00:39:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-09 00:39:34 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-09 00:39:34 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\Vandita\AppData\Local\Temp\testng-eclipse--322726761\testng-customsuite.xml
-
-2024-12-09 00:39:34 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
-2024-12-09 00:39:36 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@7a93b263: 32 ms
-2024-12-09 00:39:36 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@2babf189: 68 ms
-2024-12-09 00:39:36 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@34819867: 16 ms
-2024-12-09 00:39:36 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@1fba386c: 14 ms
-2024-12-09 00:39:36 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@43a51d00: 11 ms
-2024-12-09 00:39:36 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@75308740: 7 ms
-2024-12-09 00:39:36 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5acc9fdf: 0 ms
-2024-12-09 00:40:08 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
-2024-12-09 00:40:09 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
-2024-12-09 00:40:09 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-09 00:40:09 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-09 00:40:09 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-09 00:40:09 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-09 00:40:09 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-09 00:40:09 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-09 00:40:09 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
-2024-12-09 00:40:09 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 16 ms.
-2024-12-09 00:40:09 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-09 00:40:09 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-09 00:40:09 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-09 00:40:09 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-09 00:40:09 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-09 00:40:09 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-09 00:40:09 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-09 00:40:09 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-09 00:40:09 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-09 00:40:09 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-09 00:40:09 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-09 00:40:09 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-09 00:40:09 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-09 00:40:09 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-09 00:40:09 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
-2024-12-09 00:40:09 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-09 00:40:09 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-09 00:40:09 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-09 00:40:09 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-09 00:40:09 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-09 00:40:09 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\Vandita\AppData\Local\Temp\testng-eclipse-1207465587\testng-customsuite.xml
-
-2024-12-09 00:40:09 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
-2024-12-09 00:40:10 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@c1fa7d4: 35 ms
-2024-12-09 00:40:10 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@1eb2d371: 72 ms
-2024-12-09 00:40:10 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@2b329bbd: 14 ms
-2024-12-09 00:40:10 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@8b91134: 15 ms
-2024-12-09 00:40:10 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@173f73e7: 11 ms
-2024-12-09 00:40:10 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7ee3d262: 7 ms
-2024-12-09 00:40:10 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@396e6d9: 0 ms
-2024-12-09 00:43:07 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+2024-12-14 15:39:41 [main] INFO  com.oc.qa.TestCases.SearchProductTest - *** SearchProductTest test started ***
+2024-12-14 15:39:41 [main] INFO  com.oc.qa.TestCases.SearchProductTest - *** Login test started ***
+2024-12-14 15:39:41 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Clicked on My Account
+2024-12-14 15:39:41 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Clicked on Login button
+2024-12-14 15:39:41 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Enter an Email
+2024-12-14 15:39:42 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Entered Password
+2024-12-14 15:39:42 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Clicked on Login button
+2024-12-14 15:39:42 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Enter product name
+2024-12-14 15:39:42 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Click on search button
+2024-12-14 15:39:43 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Click on List view button
+2024-12-14 15:39:43 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Check the product name
+2024-12-14 15:39:43 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Add the product to cart
+2024-12-14 15:39:43 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Go to cart
+2024-12-14 15:39:43 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Check the product name from the cart
+2024-12-14 15:42:09 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
   C:\Users\Vandita\Desktop\eclipse-workspace\OpenCart\Master.xml
 
-2024-12-09 00:43:12 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
-2024-12-09 00:43:12 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
-2024-12-09 00:43:12 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-09 00:43:13 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Enter an Email
-2024-12-09 00:43:13 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Entered Password
-2024-12-09 00:43:13 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-09 00:47:01 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
-2024-12-09 00:47:01 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
-2024-12-09 00:47:01 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-09 00:47:25 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
-2024-12-09 00:47:25 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
-2024-12-09 00:47:25 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-09 00:47:35 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
-2024-12-09 00:47:35 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
-2024-12-09 00:47:35 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-09 00:47:45 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
-2024-12-09 00:47:45 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
-2024-12-09 00:47:46 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-09 01:12:46 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+2024-12-14 15:42:12 [main] INFO  com.oc.qa.TestCases.SearchProductTest - *** SearchProductTest test started ***
+2024-12-14 15:42:12 [main] INFO  com.oc.qa.TestCases.SearchProductTest - *** Login test started ***
+2024-12-14 15:42:12 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Clicked on My Account
+2024-12-14 15:42:12 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Clicked on Login button
+2024-12-14 15:42:12 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Enter an Email
+2024-12-14 15:42:12 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Entered Password
+2024-12-14 15:42:12 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Clicked on Login button
+2024-12-14 15:42:13 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Enter product name
+2024-12-14 15:42:13 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Click on search button
+2024-12-14 15:42:13 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Click on List view button
+2024-12-14 15:42:13 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Check the product name
+2024-12-14 15:42:17 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Add the product to cart
+2024-12-14 15:42:17 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Go to cart
+2024-12-14 15:42:17 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Check the product name from the cart
+2024-12-14 15:43:19 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
   C:\Users\Vandita\Desktop\eclipse-workspace\OpenCart\Master.xml
 
-2024-12-09 01:12:54 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
-2024-12-09 01:12:54 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
-2024-12-09 01:12:54 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-09 01:12:54 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Enter an Email
-2024-12-09 01:12:54 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Entered Password
-2024-12-09 01:12:54 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-09 01:13:05 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
-2024-12-09 01:13:05 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
-2024-12-09 01:13:05 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-09 01:13:15 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
-2024-12-09 01:13:15 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
-2024-12-09 01:13:15 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-09 01:13:25 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
-2024-12-09 01:13:25 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
-2024-12-09 01:13:26 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-09 01:13:36 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
-2024-12-09 01:13:36 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
-2024-12-09 01:13:36 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-09 01:18:11 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+2024-12-14 15:43:22 [main] INFO  com.oc.qa.TestCases.SearchProductTest - *** SearchProductTest test started ***
+2024-12-14 15:43:22 [main] INFO  com.oc.qa.TestCases.SearchProductTest - *** Login test started ***
+2024-12-14 15:43:22 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Clicked on My Account
+2024-12-14 15:43:22 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Clicked on Login button
+2024-12-14 15:43:22 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Enter an Email
+2024-12-14 15:43:23 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Entered Password
+2024-12-14 15:43:23 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Clicked on Login button
+2024-12-14 15:43:23 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Enter product name
+2024-12-14 15:43:24 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Click on search button
+2024-12-14 15:43:24 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Click on List view button
+2024-12-14 15:43:24 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Check the product name
+2024-12-14 15:43:27 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Add the product to cart
+2024-12-14 15:43:27 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Go to cart
+2024-12-14 15:43:27 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Check the product name from the cart
+2024-12-14 15:45:27 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
   C:\Users\Vandita\Desktop\eclipse-workspace\OpenCart\Master.xml
 
-2024-12-09 01:18:16 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
-2024-12-09 01:18:16 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
-2024-12-09 01:18:16 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-09 01:18:16 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Enter an Email
-2024-12-09 01:18:16 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Entered Password
-2024-12-09 01:18:16 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-09 01:18:27 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
-2024-12-09 01:18:27 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
-2024-12-09 01:18:27 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-09 01:18:37 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
-2024-12-09 01:18:37 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
-2024-12-09 01:18:38 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-09 01:18:48 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
-2024-12-09 01:18:48 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
-2024-12-09 01:18:48 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-09 01:18:58 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
-2024-12-09 01:18:58 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
-2024-12-09 01:18:58 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-09 01:25:37 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+2024-12-14 15:45:29 [main] INFO  com.oc.qa.TestCases.SearchProductTest - *** SearchProductTest test started ***
+2024-12-14 15:45:29 [main] INFO  com.oc.qa.TestCases.SearchProductTest - *** Login test started ***
+2024-12-14 15:45:29 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Clicked on My Account
+2024-12-14 15:45:29 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Clicked on Login button
+2024-12-14 15:45:30 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Enter an Email
+2024-12-14 15:45:30 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Entered Password
+2024-12-14 15:45:30 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Clicked on Login button
+2024-12-14 15:45:31 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Enter product name
+2024-12-14 15:45:31 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Click on search button
+2024-12-14 15:45:31 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Click on List view button
+2024-12-14 15:45:31 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Check the product name
+2024-12-14 15:45:34 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Add the product to cart
+2024-12-14 15:45:34 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Go to cart
+2024-12-14 15:45:34 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Check the product name from the cart
+2024-12-14 15:49:37 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
   C:\Users\Vandita\Desktop\eclipse-workspace\OpenCart\Master.xml
 
-2024-12-09 01:25:43 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
-2024-12-09 01:25:44 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
-2024-12-09 01:25:44 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-09 01:25:45 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Enter an Email
-2024-12-09 01:25:45 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Entered Password
-2024-12-09 01:25:45 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-09 01:25:57 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
-2024-12-09 01:25:57 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
-2024-12-09 01:25:57 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-09 01:26:07 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
-2024-12-09 01:26:07 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
-2024-12-09 01:26:07 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-09 01:26:17 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
-2024-12-09 01:26:17 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
-2024-12-09 01:26:18 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-09 01:26:28 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
-2024-12-09 01:26:28 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
-2024-12-09 01:26:28 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-09 01:27:31 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\Vandita\Desktop\eclipse-workspace\OpenCart\Master.xml
-
-2024-12-09 01:27:36 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
-2024-12-09 01:27:36 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
-2024-12-09 01:27:36 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-09 01:27:37 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Enter an Email
-2024-12-09 01:27:37 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Entered Password
-2024-12-09 01:27:37 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-09 01:27:48 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
-2024-12-09 01:27:48 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
-2024-12-09 01:27:48 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-09 01:27:58 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
-2024-12-09 01:27:58 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
-2024-12-09 01:27:58 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-09 01:32:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
-2024-12-09 01:32:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
-2024-12-09 01:32:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-09 01:32:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-09 01:32:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-09 01:32:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-09 01:32:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-09 01:32:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-09 01:32:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
-2024-12-09 01:32:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 17 ms.
-2024-12-09 01:32:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-09 01:32:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-09 01:32:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-09 01:32:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-09 01:32:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-09 01:32:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-09 01:32:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-09 01:32:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-09 01:32:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-09 01:32:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-09 01:32:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-09 01:32:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-09 01:32:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-09 01:32:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-09 01:32:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
-2024-12-09 01:32:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-09 01:32:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-09 01:32:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-09 01:32:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-12-09 01:32:01 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-12-09 01:32:01 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\Vandita\AppData\Local\Temp\testng-eclipse--158922253\testng-customsuite.xml
-
-2024-12-09 01:32:01 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
-2024-12-09 01:32:02 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@c1fa7d4: 28 ms
-2024-12-09 01:32:02 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@1eb2d371: 69 ms
-2024-12-09 01:32:02 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@2b329bbd: 14 ms
-2024-12-09 01:32:02 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@8b91134: 14 ms
-2024-12-09 01:32:02 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@173f73e7: 12 ms
-2024-12-09 01:32:02 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7ee3d262: 7 ms
-2024-12-09 01:32:02 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@396e6d9: 0 ms
-2024-12-09 01:32:24 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\Vandita\Desktop\eclipse-workspace\OpenCart\Master.xml
-
-2024-12-09 01:32:31 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
-2024-12-09 01:32:31 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
-2024-12-09 01:32:31 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-09 01:32:32 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Enter an Email
-2024-12-09 01:32:32 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Entered Password
-2024-12-09 01:32:32 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-09 01:32:36 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** Finished TC_003_LoginDDT ******
-2024-12-09 01:32:36 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
-2024-12-09 01:32:36 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
-2024-12-09 01:32:36 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-09 01:32:37 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Enter an Email
-2024-12-09 01:32:37 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Entered Password
-2024-12-09 01:32:37 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-09 01:32:51 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** Finished TC_003_LoginDDT ******
-2024-12-09 01:32:51 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
-2024-12-09 01:32:51 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
-2024-12-09 01:32:51 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-09 01:32:51 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Enter an Email
-2024-12-09 01:32:51 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Entered Password
-2024-12-09 01:32:52 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-09 01:33:05 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** Finished TC_003_LoginDDT ******
-2024-12-09 01:33:05 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
-2024-12-09 01:33:05 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
-2024-12-09 01:33:05 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-09 01:33:06 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Enter an Email
-2024-12-09 01:33:06 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Entered Password
-2024-12-09 01:33:06 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-09 01:33:20 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** Finished TC_003_LoginDDT ******
-2024-12-09 01:33:20 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
-2024-12-09 01:33:20 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
-2024-12-09 01:33:20 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-09 01:33:20 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Enter an Email
-2024-12-09 01:33:20 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Entered Password
-2024-12-09 01:33:21 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-09 01:33:25 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** Finished TC_003_LoginDDT ******
-2024-12-09 01:34:37 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\Vandita\Desktop\eclipse-workspace\OpenCart\Master.xml
-
-2024-12-09 01:34:41 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
-2024-12-09 01:34:41 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
-2024-12-09 01:34:41 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-09 01:34:42 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Enter an Email
-2024-12-09 01:34:42 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Entered Password
-2024-12-09 01:34:42 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-09 01:34:49 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** Finished TC_003_LoginDDT ******
-2024-12-09 01:34:49 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
-2024-12-09 01:34:49 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
-2024-12-09 01:34:49 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-09 01:34:49 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Enter an Email
-2024-12-09 01:34:49 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Entered Password
-2024-12-09 01:34:50 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-09 01:35:00 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
-2024-12-09 01:35:00 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
-2024-12-09 01:35:00 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-09 01:35:01 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Enter an Email
-2024-12-09 01:35:01 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Entered Password
-2024-12-09 01:35:01 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-09 01:35:15 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** Finished TC_003_LoginDDT ******
-2024-12-09 01:35:15 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
-2024-12-09 01:35:15 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
-2024-12-09 01:35:15 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-09 01:35:15 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Enter an Email
-2024-12-09 01:35:15 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Entered Password
-2024-12-09 01:35:15 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-09 01:35:29 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** Finished TC_003_LoginDDT ******
-2024-12-09 01:35:29 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
-2024-12-09 01:35:29 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
-2024-12-09 01:35:29 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-09 01:35:30 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Enter an Email
-2024-12-09 01:35:30 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Entered Password
-2024-12-09 01:35:30 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-09 01:35:34 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** Finished TC_003_LoginDDT ******
-2024-12-10 18:25:24 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\Vandita\Desktop\eclipse-workspace\OpenCart\Grouping.xml
-
-2024-12-10 18:26:30 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\Vandita\Desktop\eclipse-workspace\OpenCart\Master.xml
-
-2024-12-10 18:26:34 [main] INFO  com.oc.qa.TestCases.RegistrationTest - *** Registration test started ***
-2024-12-10 18:26:34 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on My Account
-2024-12-10 18:26:35 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on Register
-2024-12-10 18:26:35 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter first, last, email and Telephone
-2024-12-10 18:26:35 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter password
-2024-12-10 18:26:35 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter confirm password
-2024-12-10 18:26:36 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Click on privacy
-2024-12-10 18:26:36 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Click on continue button
-2024-12-10 18:26:36 [main] INFO  com.oc.qa.TestCases.RegistrationTest - confirmation message
-2024-12-10 18:26:36 [main] INFO  com.oc.qa.TestCases.RegistrationTest - ****Registration testing completed*****
-2024-12-10 18:26:39 [main] INFO  com.oc.qa.TestCases.LoginTest - *** Login test started ***
-2024-12-10 18:26:39 [main] INFO  com.oc.qa.TestCases.LoginTest - Clicked on My Account
-2024-12-10 18:26:40 [main] INFO  com.oc.qa.TestCases.LoginTest - Clicked on Login button
-2024-12-10 18:26:40 [main] INFO  com.oc.qa.TestCases.LoginTest - Enter an Email
-2024-12-10 18:26:40 [main] INFO  com.oc.qa.TestCases.LoginTest - Entered Password
-2024-12-10 18:26:40 [main] INFO  com.oc.qa.TestCases.LoginTest - Clicked on Login button
-2024-12-10 18:27:24 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\Vandita\Desktop\eclipse-workspace\OpenCart\Grouping.xml
-
-2024-12-10 18:27:28 [main] INFO  com.oc.qa.TestCases.RegistrationTest - *** Registration test started ***
-2024-12-10 18:27:28 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on My Account
-2024-12-10 18:27:28 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on Register
-2024-12-10 18:27:28 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter first, last, email and Telephone
-2024-12-10 18:27:29 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter password
-2024-12-10 18:27:29 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter confirm password
-2024-12-10 18:27:29 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Click on privacy
-2024-12-10 18:27:29 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Click on continue button
-2024-12-10 18:27:30 [main] INFO  com.oc.qa.TestCases.RegistrationTest - confirmation message
-2024-12-10 18:27:30 [main] INFO  com.oc.qa.TestCases.RegistrationTest - ****Registration testing completed*****
-2024-12-10 18:27:32 [main] INFO  com.oc.qa.TestCases.LoginTest - *** Login test started ***
-2024-12-10 18:27:32 [main] INFO  com.oc.qa.TestCases.LoginTest - Clicked on My Account
-2024-12-10 18:27:33 [main] INFO  com.oc.qa.TestCases.LoginTest - Clicked on Login button
-2024-12-10 18:27:33 [main] INFO  com.oc.qa.TestCases.LoginTest - Enter an Email
-2024-12-10 18:27:34 [main] INFO  com.oc.qa.TestCases.LoginTest - Entered Password
-2024-12-10 18:27:34 [main] INFO  com.oc.qa.TestCases.LoginTest - Clicked on Login button
-2024-12-10 18:28:16 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\Vandita\Desktop\eclipse-workspace\OpenCart\Grouping.xml
-
-2024-12-10 18:28:21 [main] INFO  com.oc.qa.TestCases.RegistrationTest - *** Registration test started ***
-2024-12-10 18:28:21 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on My Account
-2024-12-10 18:28:22 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on Register
-2024-12-10 18:28:22 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter first, last, email and Telephone
-2024-12-10 18:28:22 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter password
-2024-12-10 18:28:22 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter confirm password
-2024-12-10 18:28:23 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Click on privacy
-2024-12-10 18:28:23 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Click on continue button
-2024-12-10 18:28:23 [main] INFO  com.oc.qa.TestCases.RegistrationTest - confirmation message
-2024-12-10 18:28:24 [main] INFO  com.oc.qa.TestCases.RegistrationTest - ****Registration testing completed*****
-2024-12-10 20:24:38 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\Vandita\Desktop\eclipse-workspace\OpenCart\Grouping.xml
-
-2024-12-10 20:24:43 [main] INFO  com.oc.qa.TestCases.RegistrationTest - *** Registration test started ***
-2024-12-10 20:24:44 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on My Account
-2024-12-10 20:24:44 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on Register
-2024-12-10 20:24:44 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter first, last, email and Telephone
-2024-12-10 20:24:44 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter password
-2024-12-10 20:24:45 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter confirm password
-2024-12-10 20:24:45 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Click on privacy
-2024-12-10 20:24:45 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Click on continue button
-2024-12-10 20:24:45 [main] INFO  com.oc.qa.TestCases.RegistrationTest - confirmation message
-2024-12-10 20:24:45 [main] INFO  com.oc.qa.TestCases.RegistrationTest - ****Registration testing completed*****
-2024-12-10 20:24:49 [main] INFO  com.oc.qa.TestCases.LoginTest - *** Login test started ***
-2024-12-10 20:24:49 [main] INFO  com.oc.qa.TestCases.LoginTest - Clicked on My Account
-2024-12-10 20:24:49 [main] INFO  com.oc.qa.TestCases.LoginTest - Clicked on Login button
-2024-12-10 20:24:49 [main] INFO  com.oc.qa.TestCases.LoginTest - Enter an Email
-2024-12-10 20:24:49 [main] INFO  com.oc.qa.TestCases.LoginTest - Entered Password
-2024-12-10 20:24:50 [main] INFO  com.oc.qa.TestCases.LoginTest - Clicked on Login button
-2024-12-10 20:28:03 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\Vandita\Desktop\eclipse-workspace\OpenCart\Grouping.xml
-
-2024-12-10 20:30:01 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\Vandita\Desktop\eclipse-workspace\OpenCart\Grouping.xml
-
-2024-12-10 20:30:07 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
-2024-12-10 20:30:07 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
-2024-12-10 20:30:07 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-10 20:30:07 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Enter an Email
-2024-12-10 20:30:07 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Entered Password
-2024-12-10 20:30:08 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-10 20:30:12 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** Finished TC_003_LoginDDT ******
-2024-12-10 20:30:12 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
-2024-12-10 20:30:12 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
-2024-12-10 20:30:12 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-10 20:30:13 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Enter an Email
-2024-12-10 20:30:13 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Entered Password
-2024-12-10 20:30:13 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-10 20:30:26 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** Finished TC_003_LoginDDT ******
-2024-12-10 20:30:26 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
-2024-12-10 20:30:26 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
-2024-12-10 20:30:27 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-10 20:30:27 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Enter an Email
-2024-12-10 20:30:28 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Entered Password
-2024-12-10 20:30:28 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-10 20:30:40 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
-2024-12-10 20:30:40 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
-2024-12-10 20:30:40 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-10 20:30:42 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Enter an Email
-2024-12-10 20:30:42 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Entered Password
-2024-12-10 20:30:42 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-10 20:30:56 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** Finished TC_003_LoginDDT ******
-2024-12-10 20:30:56 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
-2024-12-10 20:30:56 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
-2024-12-10 20:30:56 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-10 20:30:56 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Enter an Email
-2024-12-10 20:30:57 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Entered Password
-2024-12-10 20:30:57 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-10 20:31:01 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** Finished TC_003_LoginDDT ******
-2024-12-10 20:38:31 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\Vandita\Desktop\eclipse-workspace\OpenCart\test-output\testng-failed.xml
-
-2024-12-10 20:38:36 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
-2024-12-10 20:38:36 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
-2024-12-10 20:38:37 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-10 20:38:37 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Enter an Email
-2024-12-10 20:38:37 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Entered Password
-2024-12-10 20:38:37 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
-2024-12-10 20:38:51 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** Finished TC_003_LoginDDT ******
-2024-12-11 22:48:58 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\Vandita\Desktop\eclipse-workspace\OpenCart\Master.xml
-
-2024-12-11 22:50:05 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\Vandita\Desktop\eclipse-workspace\OpenCart\Grouping.xml
-
-2024-12-11 22:55:40 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\Vandita\Desktop\eclipse-workspace\OpenCart\Master.xml
-
-2024-12-11 23:06:42 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\Vandita\Desktop\eclipse-workspace\OpenCart\Master.xml
-
-2024-12-11 23:13:20 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\Vandita\Desktop\eclipse-workspace\OpenCart\Master.xml
-
-2024-12-11 23:13:27 [main] INFO  com.oc.qa.TestCases.RegistrationTest - *** Registration test started ***
-2024-12-11 23:13:27 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on My Account
-2024-12-11 23:13:27 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on Register
-2024-12-11 23:13:27 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter first, last, email and Telephone
-2024-12-11 23:13:28 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter password
-2024-12-11 23:13:28 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter confirm password
-2024-12-11 23:13:28 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Click on privacy
-2024-12-11 23:13:28 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Click on continue button
-2024-12-11 23:13:29 [main] INFO  com.oc.qa.TestCases.RegistrationTest - confirmation message
-2024-12-11 23:13:29 [main] INFO  com.oc.qa.TestCases.RegistrationTest - ****Registration testing completed*****
-2024-12-11 23:13:33 [main] INFO  com.oc.qa.TestCases.LoginTest - *** Login test started ***
-2024-12-11 23:13:33 [main] INFO  com.oc.qa.TestCases.LoginTest - Clicked on My Account
-2024-12-11 23:13:33 [main] INFO  com.oc.qa.TestCases.LoginTest - Clicked on Login button
-2024-12-11 23:13:33 [main] INFO  com.oc.qa.TestCases.LoginTest - Enter an Email
-2024-12-11 23:13:33 [main] INFO  com.oc.qa.TestCases.LoginTest - Entered Password
-2024-12-11 23:13:33 [main] INFO  com.oc.qa.TestCases.LoginTest - Clicked on Login button
-2024-12-11 23:14:29 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\Vandita\Desktop\eclipse-workspace\OpenCart\Master.xml
-
-2024-12-11 23:14:37 [main] INFO  com.oc.qa.TestCases.RegistrationTest - *** Registration test started ***
-2024-12-11 23:14:37 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on My Account
-2024-12-11 23:14:37 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on Register
-2024-12-11 23:14:37 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter first, last, email and Telephone
-2024-12-11 23:14:38 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter password
-2024-12-11 23:14:38 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter confirm password
-2024-12-11 23:14:38 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Click on privacy
-2024-12-11 23:14:38 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Click on continue button
-2024-12-11 23:14:40 [main] INFO  com.oc.qa.TestCases.RegistrationTest - confirmation message
-2024-12-11 23:14:40 [main] INFO  com.oc.qa.TestCases.RegistrationTest - ****Registration testing completed*****
-2024-12-11 23:14:43 [main] INFO  com.oc.qa.TestCases.LoginTest - *** Login test started ***
-2024-12-11 23:14:43 [main] INFO  com.oc.qa.TestCases.LoginTest - Clicked on My Account
-2024-12-11 23:14:43 [main] INFO  com.oc.qa.TestCases.LoginTest - Clicked on Login button
-2024-12-11 23:14:43 [main] INFO  com.oc.qa.TestCases.LoginTest - Enter an Email
-2024-12-11 23:14:44 [main] INFO  com.oc.qa.TestCases.LoginTest - Entered Password
-2024-12-11 23:14:44 [main] INFO  com.oc.qa.TestCases.LoginTest - Clicked on Login button
-2024-12-11 23:15:17 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\Vandita\Desktop\eclipse-workspace\OpenCart\Master.xml
-
-2024-12-11 23:15:22 [main] INFO  com.oc.qa.TestCases.RegistrationTest - *** Registration test started ***
-2024-12-11 23:15:22 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on My Account
-2024-12-11 23:15:23 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on Register
-2024-12-11 23:15:23 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter first, last, email and Telephone
-2024-12-11 23:15:23 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter password
-2024-12-11 23:15:23 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter confirm password
-2024-12-11 23:15:24 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Click on privacy
-2024-12-11 23:15:24 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Click on continue button
-2024-12-11 23:15:25 [main] INFO  com.oc.qa.TestCases.RegistrationTest - confirmation message
-2024-12-11 23:15:25 [main] INFO  com.oc.qa.TestCases.RegistrationTest - ****Registration testing completed*****
-2024-12-11 23:15:28 [main] INFO  com.oc.qa.TestCases.LoginTest - *** Login test started ***
-2024-12-11 23:15:28 [main] INFO  com.oc.qa.TestCases.LoginTest - Clicked on My Account
-2024-12-11 23:15:28 [main] INFO  com.oc.qa.TestCases.LoginTest - Clicked on Login button
-2024-12-11 23:15:28 [main] INFO  com.oc.qa.TestCases.LoginTest - Enter an Email
-2024-12-11 23:15:28 [main] INFO  com.oc.qa.TestCases.LoginTest - Entered Password
-2024-12-11 23:15:28 [main] INFO  com.oc.qa.TestCases.LoginTest - Clicked on Login button
-2024-12-11 23:17:11 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\Vandita\Desktop\eclipse-workspace\OpenCart\Master.xml
-
-2024-12-11 23:17:15 [main] INFO  com.oc.qa.TestCases.RegistrationTest - *** Registration test started ***
-2024-12-11 23:17:15 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on My Account
-2024-12-11 23:17:16 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on Register
-2024-12-11 23:17:16 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter first, last, email and Telephone
-2024-12-11 23:17:16 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter password
-2024-12-11 23:17:16 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter confirm password
-2024-12-11 23:17:17 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Click on privacy
-2024-12-11 23:17:17 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Click on continue button
-2024-12-11 23:17:17 [main] INFO  com.oc.qa.TestCases.RegistrationTest - confirmation message
-2024-12-11 23:17:17 [main] INFO  com.oc.qa.TestCases.RegistrationTest - ****Registration testing completed*****
-2024-12-11 23:17:20 [main] INFO  com.oc.qa.TestCases.LoginTest - *** Login test started ***
-2024-12-11 23:17:20 [main] INFO  com.oc.qa.TestCases.LoginTest - Clicked on My Account
-2024-12-11 23:17:20 [main] INFO  com.oc.qa.TestCases.LoginTest - Clicked on Login button
-2024-12-11 23:17:21 [main] INFO  com.oc.qa.TestCases.LoginTest - Enter an Email
-2024-12-11 23:17:21 [main] INFO  com.oc.qa.TestCases.LoginTest - Entered Password
-2024-12-11 23:17:21 [main] INFO  com.oc.qa.TestCases.LoginTest - Clicked on Login button
-2024-12-12 23:14:40 [main] INFO  com.oc.qa.TestCases.RegistrationTest - *** Registration test started ***
-2024-12-12 23:14:40 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on My Account
-2024-12-12 23:14:40 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on Register
-2024-12-12 23:14:40 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter first, last, email and Telephone
-2024-12-12 23:14:41 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter password
-2024-12-12 23:14:41 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter confirm password
-2024-12-12 23:14:41 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Click on privacy
-2024-12-12 23:14:42 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Click on continue button
-2024-12-12 23:14:42 [main] INFO  com.oc.qa.TestCases.RegistrationTest - confirmation message
-2024-12-12 23:14:42 [main] INFO  com.oc.qa.TestCases.RegistrationTest - ****Registration testing completed*****
-2024-12-12 23:14:45 [main] INFO  com.oc.qa.TestCases.LoginTest - *** Login test started ***
-2024-12-12 23:14:45 [main] INFO  com.oc.qa.TestCases.LoginTest - Clicked on My Account
-2024-12-12 23:14:45 [main] INFO  com.oc.qa.TestCases.LoginTest - Clicked on Login button
-2024-12-12 23:14:46 [main] INFO  com.oc.qa.TestCases.LoginTest - Enter an Email
-2024-12-12 23:14:46 [main] INFO  com.oc.qa.TestCases.LoginTest - Entered Password
-2024-12-12 23:14:46 [main] INFO  com.oc.qa.TestCases.LoginTest - Clicked on Login button
+2024-12-14 15:49:39 [main] INFO  com.oc.qa.TestCases.SearchProductTest - *** SearchProductTest test started ***
+2024-12-14 15:49:39 [main] INFO  com.oc.qa.TestCases.SearchProductTest - *** Login test started ***
+2024-12-14 15:49:39 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Clicked on My Account
+2024-12-14 15:49:39 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Clicked on Login button
+2024-12-14 15:49:39 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Enter an Email
+2024-12-14 15:49:40 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Entered Password
+2024-12-14 15:49:40 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Clicked on Login button
+2024-12-14 15:49:40 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Enter product name
+2024-12-14 15:49:40 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Click on search button
+2024-12-14 15:49:41 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Click on List view button
+2024-12-14 15:49:41 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Check the product name
+2024-12-14 15:49:44 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Add the product to cart
+2024-12-14 15:49:44 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Go to cart
+2024-12-14 15:49:44 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Check the product name from the cart

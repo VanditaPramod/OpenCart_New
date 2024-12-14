@@ -1,23 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-12-11T23:17:12 IST" name="Master Suite" finished-at="2024-12-11T23:17:22 IST" duration-ms="10265">
+  <suite started-at="2024-12-14T15:49:37 IST" name="Master Suite" finished-at="2024-12-14T15:49:49 IST" duration-ms="12391">
     <groups>
       <group name="Master">
-        <method signature="LoginTest.Acc_LoginTest()[pri:0, instance:com.oc.qa.TestCases.LoginTest@76ba13c]" name="Acc_LoginTest" class="com.oc.qa.TestCases.LoginTest"/>
-        <method signature="RegistrationTest.Acc_RegistrationTest()[pri:0, instance:com.oc.qa.TestCases.RegistrationTest@ab7a938]" name="Acc_RegistrationTest" class="com.oc.qa.TestCases.RegistrationTest"/>
+        <method signature="SearchProductTest.SearchproductTest()[pri:0, instance:com.oc.qa.TestCases.SearchProductTest@545de5a4]" name="SearchproductTest" class="com.oc.qa.TestCases.SearchProductTest"/>
       </group> <!-- Master -->
-      <group name="Sanity">
-        <method signature="LoginTest.Acc_LoginTest()[pri:0, instance:com.oc.qa.TestCases.LoginTest@76ba13c]" name="Acc_LoginTest" class="com.oc.qa.TestCases.LoginTest"/>
-      </group> <!-- Sanity -->
-      <group name="Regression">
-        <method signature="RegistrationTest.Acc_RegistrationTest()[pri:0, instance:com.oc.qa.TestCases.RegistrationTest@ab7a938]" name="Acc_RegistrationTest" class="com.oc.qa.TestCases.RegistrationTest"/>
-      </group> <!-- Regression -->
     </groups>
-    <test started-at="2024-12-11T23:17:12 IST" name="Test" finished-at="2024-12-11T23:17:22 IST" duration-ms="10265">
-      <class name="com.oc.qa.TestCases.RegistrationTest">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:com.oc.qa.TestCases.RegistrationTest@ab7a938]" started-at="2024-12-11T23:17:12 IST" name="setup" finished-at="2024-12-11T23:17:15 IST" duration-ms="3234" status="PASS">
+    <test started-at="2024-12-14T15:49:37 IST" name="Test" finished-at="2024-12-14T15:49:49 IST" duration-ms="12391">
+      <class name="com.oc.qa.TestCases.SearchProductTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:com.oc.qa.TestCases.SearchProductTest@545de5a4]" started-at="2024-12-14T15:49:37 IST" name="setup" finished-at="2024-12-14T15:49:39 IST" duration-ms="2151" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -33,41 +26,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="Acc_RegistrationTest()[pri:0, instance:com.oc.qa.TestCases.RegistrationTest@ab7a938]" started-at="2024-12-11T23:17:15 IST" name="Acc_RegistrationTest" finished-at="2024-12-11T23:17:17 IST" duration-ms="2310" status="PASS">
+        <test-method signature="SearchproductTest()[pri:0, instance:com.oc.qa.TestCases.SearchProductTest@545de5a4]" started-at="2024-12-14T15:49:39 IST" name="SearchproductTest" finished-at="2024-12-14T15:49:49 IST" duration-ms="9853" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Acc_RegistrationTest -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.oc.qa.TestCases.RegistrationTest@ab7a938]" started-at="2024-12-11T23:17:17 IST" name="teardown" finished-at="2024-12-11T23:17:17 IST" duration-ms="146" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- teardown -->
-      </class> <!-- com.oc.qa.TestCases.RegistrationTest -->
-      <class name="com.oc.qa.TestCases.LoginTest">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:com.oc.qa.TestCases.LoginTest@76ba13c]" started-at="2024-12-11T23:17:18 IST" name="setup" finished-at="2024-12-11T23:17:20 IST" duration-ms="2627" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[Windows]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="Acc_LoginTest()[pri:0, instance:com.oc.qa.TestCases.LoginTest@76ba13c]" started-at="2024-12-11T23:17:20 IST" name="Acc_LoginTest" finished-at="2024-12-11T23:17:22 IST" duration-ms="1388" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Acc_LoginTest -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.oc.qa.TestCases.LoginTest@76ba13c]" started-at="2024-12-11T23:17:22 IST" name="teardown" finished-at="2024-12-11T23:17:22 IST" duration-ms="244" status="PASS">
+        </test-method> <!-- SearchproductTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.oc.qa.TestCases.SearchProductTest@545de5a4]" started-at="2024-12-14T15:49:49 IST" name="teardown" finished-at="2024-12-14T15:49:49 IST" duration-ms="136" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-      </class> <!-- com.oc.qa.TestCases.LoginTest -->
+      </class> <!-- com.oc.qa.TestCases.SearchProductTest -->
     </test> <!-- Test -->
   </suite> <!-- Master Suite -->
 </testng-results>
