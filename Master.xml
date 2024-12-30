@@ -1,27 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 
+<suite name="Master Suite" verbose="1" parallel="tests" thread-count="5">
+    <!-- Group Configuration -->
+    <groups>
+        <run>
+            <!-- Including only the 'Master' group -->
+            <include name="Master" />
+            <include name="Regression"></include>
+            <include name="Sanity"></include>
+        </run>
+    </groups>
 
-<suite name="Master Suite">
-	<groups>
-		<run>
-	<!-- 		<include name="Sanity"></include>
-			<include name="Regression"> </include> -->
-			<include name="Master"></include> 
-		<!--	<exclude name="Master"></exclude>-->
-		</run>
-	</groups>
-	<listeners>
-		<listener class-name="com.oc.qa.util.ExtentReportManager"></listener>
-	</listeners>
-	<test thread-count="5" name="Test">
-	<parameter name="OS" value="Windows"></parameter>
-	  <parameter name="Browser" value="chrome"></parameter> 	  
-    <classes>
-      <!--	<class name="com.oc.qa.TestCases.RegistrationTest"/> 
-      	<class name="com.oc.qa.TestCases.LoginTest"/> 
-      <class name="com.oc.qa.TestCases.LoginTestDDT"/> -->
-   		<class name="com.oc.qa.TestCases.SearchProductTest"/> 
-    </classes>
-  </test> <!-- Test -->
-</suite> <!-- Suite -->
+    <!-- Listeners for Extent Reports -->
+    <listeners>
+        <listener class-name="com.oc.qa.util.ExtentReportManager" />
+    </listeners>
+
+    <!-- Test Configuration -->
+    <test name="Master Test Execution" parallel="classes" thread-count="1">
+        <!-- Suite-wide Parameters -->
+        <parameter name="OS" value="Windows" />
+        <parameter name="Browser" value="chrome" />
+
+        <!-- Classes to Execute -->
+        <classes>
+            <class name="com.oc.qa.TestCases.RegistrationTest" />
+            <class name="com.oc.qa.TestCases.LoginTest" />
+       <!--     <class name="com.oc.qa.TestCases.LoginTestDDT" />-->
+            <class name="com.oc.qa.TestCases.SearchProductTest" />
+            <class name="com.oc.qa.TestCases.AddressTest" />
+        </classes>
+    </test>
+</suite>

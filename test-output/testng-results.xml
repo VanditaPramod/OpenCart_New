@@ -1,16 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-12-14T15:49:37 IST" name="Master Suite" finished-at="2024-12-14T15:49:49 IST" duration-ms="12391">
+  <suite started-at="2024-12-31T00:15:19 IST" name="Master Suite" finished-at="2024-12-31T00:16:44 IST" duration-ms="84967">
     <groups>
       <group name="Master">
-        <method signature="SearchProductTest.SearchproductTest()[pri:0, instance:com.oc.qa.TestCases.SearchProductTest@545de5a4]" name="SearchproductTest" class="com.oc.qa.TestCases.SearchProductTest"/>
+        <method signature="AddressTest.Addressupdate(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.oc.qa.TestCases.AddressTest@305f031]" name="Addressupdate" class="com.oc.qa.TestCases.AddressTest"/>
+        <method signature="LoginTest.Acc_LoginTest()[pri:0, instance:com.oc.qa.TestCases.LoginTest@68759011]" name="Acc_LoginTest" class="com.oc.qa.TestCases.LoginTest"/>
+        <method signature="RegistrationTest.Acc_RegistrationTest()[pri:0, instance:com.oc.qa.TestCases.RegistrationTest@48c35007]" name="Acc_RegistrationTest" class="com.oc.qa.TestCases.RegistrationTest"/>
+        <method signature="SearchProductTest.SearchproductTest()[pri:0, instance:com.oc.qa.TestCases.SearchProductTest@7e242b4d]" name="SearchproductTest" class="com.oc.qa.TestCases.SearchProductTest"/>
       </group> <!-- Master -->
+      <group name="Sanity">
+        <method signature="LoginTest.Acc_LoginTest()[pri:0, instance:com.oc.qa.TestCases.LoginTest@68759011]" name="Acc_LoginTest" class="com.oc.qa.TestCases.LoginTest"/>
+        <method signature="RegistrationTest.Acc_RegistrationTest()[pri:0, instance:com.oc.qa.TestCases.RegistrationTest@48c35007]" name="Acc_RegistrationTest" class="com.oc.qa.TestCases.RegistrationTest"/>
+      </group> <!-- Sanity -->
+      <group name="Regression">
+        <method signature="LoginTest.Acc_LoginTest()[pri:0, instance:com.oc.qa.TestCases.LoginTest@68759011]" name="Acc_LoginTest" class="com.oc.qa.TestCases.LoginTest"/>
+        <method signature="RegistrationTest.Acc_RegistrationTest()[pri:0, instance:com.oc.qa.TestCases.RegistrationTest@48c35007]" name="Acc_RegistrationTest" class="com.oc.qa.TestCases.RegistrationTest"/>
+        <method signature="SearchProductTest.SearchproductTest()[pri:0, instance:com.oc.qa.TestCases.SearchProductTest@7e242b4d]" name="SearchproductTest" class="com.oc.qa.TestCases.SearchProductTest"/>
+      </group> <!-- Regression -->
     </groups>
-    <test started-at="2024-12-14T15:49:37 IST" name="Test" finished-at="2024-12-14T15:49:49 IST" duration-ms="12391">
-      <class name="com.oc.qa.TestCases.SearchProductTest">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:com.oc.qa.TestCases.SearchProductTest@545de5a4]" started-at="2024-12-14T15:49:37 IST" name="setup" finished-at="2024-12-14T15:49:39 IST" duration-ms="2151" status="PASS">
+    <test started-at="2024-12-31T00:15:19 IST" name="Master Test Execution" finished-at="2024-12-31T00:16:44 IST" duration-ms="84967">
+      <class name="com.oc.qa.TestCases.AddressTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:com.oc.qa.TestCases.AddressTest@305f031]" started-at="2024-12-31T00:15:49 IST" name="setup" finished-at="2024-12-31T00:15:54 IST" duration-ms="4756" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -26,15 +38,393 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="SearchproductTest()[pri:0, instance:com.oc.qa.TestCases.SearchProductTest@545de5a4]" started-at="2024-12-14T15:49:39 IST" name="SearchproductTest" finished-at="2024-12-14T15:49:49 IST" duration-ms="9853" status="PASS">
+        <test-method signature="Addressupdate(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.oc.qa.TestCases.AddressTest@305f031]" started-at="2024-12-31T00:15:54 IST" name="Addressupdate" data-provider="AddressUpdate" finished-at="2024-12-31T00:16:05 IST" duration-ms="11207" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vanditanaik@mailinator.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[@Tester123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Pramod]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Naik]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[ABC]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Electronic City]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Electronic City]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Electronic City]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[560100]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[India]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Karnataka]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Addressupdate -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.oc.qa.TestCases.AddressTest@305f031]" started-at="2024-12-31T00:16:05 IST" name="teardown" finished-at="2024-12-31T00:16:05 IST" duration-ms="254" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:com.oc.qa.TestCases.AddressTest@305f031]" started-at="2024-12-31T00:16:05 IST" name="setup" finished-at="2024-12-31T00:16:07 IST" duration-ms="1846" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Addressupdate(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.oc.qa.TestCases.AddressTest@305f031]" started-at="2024-12-31T00:16:07 IST" name="Addressupdate" data-provider="AddressUpdate" finished-at="2024-12-31T00:16:17 IST" duration-ms="10381" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vanditanaik@mailinator.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[@Tester123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Vandita]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Naik]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[BCD]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[HosaRoad]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[HosaRoad]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[HosaRoad]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[560100]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[India]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Karnataka]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Addressupdate -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.oc.qa.TestCases.AddressTest@305f031]" started-at="2024-12-31T00:16:17 IST" name="teardown" finished-at="2024-12-31T00:16:18 IST" duration-ms="346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:com.oc.qa.TestCases.AddressTest@305f031]" started-at="2024-12-31T00:16:18 IST" name="setup" finished-at="2024-12-31T00:16:20 IST" duration-ms="1856" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Addressupdate(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.oc.qa.TestCases.AddressTest@305f031]" started-at="2024-12-31T00:16:20 IST" name="Addressupdate" data-provider="AddressUpdate" finished-at="2024-12-31T00:16:31 IST" duration-ms="10937" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vanditanaik@mailinator.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[@Tester123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Keeku]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Holiya]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[CDE]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[BTM]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[BTM]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[BTM]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[560100]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[India]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Karnataka]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Addressupdate -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.oc.qa.TestCases.AddressTest@305f031]" started-at="2024-12-31T00:16:31 IST" name="teardown" finished-at="2024-12-31T00:16:31 IST" duration-ms="336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:com.oc.qa.TestCases.AddressTest@305f031]" started-at="2024-12-31T00:16:31 IST" name="setup" finished-at="2024-12-31T00:16:33 IST" duration-ms="1960" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Addressupdate(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.oc.qa.TestCases.AddressTest@305f031]" started-at="2024-12-31T00:16:33 IST" name="Addressupdate" data-provider="AddressUpdate" finished-at="2024-12-31T00:16:43 IST" duration-ms="10453" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vanditanaik@mailinator.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[@Tester123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Peeku]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Hegde]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[DEF]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[JayNagar]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[JayNagar]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[JayNagar]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[560100]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[India]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Karnataka]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Addressupdate -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.oc.qa.TestCases.AddressTest@305f031]" started-at="2024-12-31T00:16:43 IST" name="teardown" finished-at="2024-12-31T00:16:44 IST" duration-ms="321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.oc.qa.TestCases.AddressTest -->
+      <class name="com.oc.qa.TestCases.RegistrationTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:com.oc.qa.TestCases.RegistrationTest@48c35007]" started-at="2024-12-31T00:15:19 IST" name="setup" finished-at="2024-12-31T00:15:22 IST" duration-ms="3174" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Acc_RegistrationTest()[pri:0, instance:com.oc.qa.TestCases.RegistrationTest@48c35007]" started-at="2024-12-31T00:15:22 IST" name="Acc_RegistrationTest" finished-at="2024-12-31T00:15:25 IST" duration-ms="2615" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Acc_RegistrationTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.oc.qa.TestCases.RegistrationTest@48c35007]" started-at="2024-12-31T00:15:25 IST" name="teardown" finished-at="2024-12-31T00:15:25 IST" duration-ms="309" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.oc.qa.TestCases.RegistrationTest -->
+      <class name="com.oc.qa.TestCases.LoginTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:com.oc.qa.TestCases.LoginTest@68759011]" started-at="2024-12-31T00:15:25 IST" name="setup" finished-at="2024-12-31T00:15:30 IST" duration-ms="5297" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Acc_LoginTest()[pri:0, instance:com.oc.qa.TestCases.LoginTest@68759011]" started-at="2024-12-31T00:15:30 IST" name="Acc_LoginTest" finished-at="2024-12-31T00:15:32 IST" duration-ms="2034" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Acc_LoginTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.oc.qa.TestCases.LoginTest@68759011]" started-at="2024-12-31T00:15:32 IST" name="teardown" finished-at="2024-12-31T00:15:33 IST" duration-ms="295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.oc.qa.TestCases.LoginTest -->
+      <class name="com.oc.qa.TestCases.SearchProductTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:com.oc.qa.TestCases.SearchProductTest@7e242b4d]" started-at="2024-12-31T00:15:33 IST" name="setup" finished-at="2024-12-31T00:15:36 IST" duration-ms="3176" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="SearchproductTest()[pri:0, instance:com.oc.qa.TestCases.SearchProductTest@7e242b4d]" started-at="2024-12-31T00:15:36 IST" name="SearchproductTest" finished-at="2024-12-31T00:15:47 IST" duration-ms="10611" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SearchproductTest -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.oc.qa.TestCases.SearchProductTest@545de5a4]" started-at="2024-12-14T15:49:49 IST" name="teardown" finished-at="2024-12-14T15:49:49 IST" duration-ms="136" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.oc.qa.TestCases.SearchProductTest@7e242b4d]" started-at="2024-12-31T00:15:47 IST" name="teardown" finished-at="2024-12-31T00:15:47 IST" duration-ms="252" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- com.oc.qa.TestCases.SearchProductTest -->
-    </test> <!-- Test -->
+    </test> <!-- Master Test Execution -->
   </suite> <!-- Master Suite -->
 </testng-results>

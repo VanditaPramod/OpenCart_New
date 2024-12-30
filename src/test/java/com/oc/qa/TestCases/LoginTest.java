@@ -11,7 +11,7 @@ import junit.framework.Assert;
 
 public class LoginTest extends BaseClass
 {
-	@Test (groups={"Sanity","Master"})
+	@Test (groups={"Sanity","Regression","Master"})
 	public void Acc_LoginTest()
 	{
 		try

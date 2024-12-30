@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.oc.qa.TestCases.LoginTestDDT">
+      <class name="com.oc.qa.TestCases.AddressTest">
         <methods>
           <include name="setup"/>
-          <include name="verify_loginDDT"/>
           <include name="teardown"/>
+          <include name="Addressupdate"/>
         </methods>
-      </class> <!-- com.oc.qa.TestCases.LoginTestDDT -->
+      </class> <!-- com.oc.qa.TestCases.AddressTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

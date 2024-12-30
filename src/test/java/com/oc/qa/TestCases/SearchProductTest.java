@@ -12,7 +12,7 @@ import junit.framework.Assert;
 
 public class SearchProductTest extends BaseClass{
 	
-	@Test(groups="Master")
+	@Test(groups={"Regression","Master"})
 	public void SearchproductTest()
 	{
 		try
