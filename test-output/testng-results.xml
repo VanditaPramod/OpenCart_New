@@ -1,28 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-12-31T00:15:19 IST" name="Master Suite" finished-at="2024-12-31T00:16:44 IST" duration-ms="84967">
+  <suite started-at="2024-12-31T22:12:52 IST" name="Master Suite" finished-at="2024-12-31T22:13:17 IST" duration-ms="24895">
     <groups>
       <group name="Master">
-        <method signature="AddressTest.Addressupdate(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.oc.qa.TestCases.AddressTest@305f031]" name="Addressupdate" class="com.oc.qa.TestCases.AddressTest"/>
-        <method signature="LoginTest.Acc_LoginTest()[pri:0, instance:com.oc.qa.TestCases.LoginTest@68759011]" name="Acc_LoginTest" class="com.oc.qa.TestCases.LoginTest"/>
-        <method signature="RegistrationTest.Acc_RegistrationTest()[pri:0, instance:com.oc.qa.TestCases.RegistrationTest@48c35007]" name="Acc_RegistrationTest" class="com.oc.qa.TestCases.RegistrationTest"/>
-        <method signature="SearchProductTest.SearchproductTest()[pri:0, instance:com.oc.qa.TestCases.SearchProductTest@7e242b4d]" name="SearchproductTest" class="com.oc.qa.TestCases.SearchProductTest"/>
+        <method signature="AddressTest.Addressupdate(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.oc.qa.TestCases.AddressTest@21d8bcbe]" name="Addressupdate" class="com.oc.qa.TestCases.AddressTest"/>
       </group> <!-- Master -->
-      <group name="Sanity">
-        <method signature="LoginTest.Acc_LoginTest()[pri:0, instance:com.oc.qa.TestCases.LoginTest@68759011]" name="Acc_LoginTest" class="com.oc.qa.TestCases.LoginTest"/>
-        <method signature="RegistrationTest.Acc_RegistrationTest()[pri:0, instance:com.oc.qa.TestCases.RegistrationTest@48c35007]" name="Acc_RegistrationTest" class="com.oc.qa.TestCases.RegistrationTest"/>
-      </group> <!-- Sanity -->
-      <group name="Regression">
-        <method signature="LoginTest.Acc_LoginTest()[pri:0, instance:com.oc.qa.TestCases.LoginTest@68759011]" name="Acc_LoginTest" class="com.oc.qa.TestCases.LoginTest"/>
-        <method signature="RegistrationTest.Acc_RegistrationTest()[pri:0, instance:com.oc.qa.TestCases.RegistrationTest@48c35007]" name="Acc_RegistrationTest" class="com.oc.qa.TestCases.RegistrationTest"/>
-        <method signature="SearchProductTest.SearchproductTest()[pri:0, instance:com.oc.qa.TestCases.SearchProductTest@7e242b4d]" name="SearchproductTest" class="com.oc.qa.TestCases.SearchProductTest"/>
-      </group> <!-- Regression -->
     </groups>
-    <test started-at="2024-12-31T00:15:19 IST" name="Master Test Execution" finished-at="2024-12-31T00:16:44 IST" duration-ms="84967">
+    <test started-at="2024-12-31T22:12:52 IST" name="Master Test Execution" finished-at="2024-12-31T22:13:17 IST" duration-ms="24895">
       <class name="com.oc.qa.TestCases.AddressTest">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:com.oc.qa.TestCases.AddressTest@305f031]" started-at="2024-12-31T00:15:49 IST" name="setup" finished-at="2024-12-31T00:15:54 IST" duration-ms="4756" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:com.oc.qa.TestCases.AddressTest@21d8bcbe]" started-at="2024-12-31T22:12:54 IST" name="setup" finished-at="2024-12-31T22:12:57 IST" duration-ms="2886" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -38,7 +26,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="Addressupdate(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.oc.qa.TestCases.AddressTest@305f031]" started-at="2024-12-31T00:15:54 IST" name="Addressupdate" data-provider="AddressUpdate" finished-at="2024-12-31T00:16:05 IST" duration-ms="11207" status="PASS">
+        <test-method signature="Addressupdate(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.oc.qa.TestCases.AddressTest@21d8bcbe]" started-at="2024-12-31T22:12:57 IST" name="Addressupdate" data-provider="AddressUpdate" finished-at="2024-12-31T22:13:01 IST" duration-ms="3849" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -95,15 +83,25 @@
                 <![CDATA[Karnataka]]>
               </value>
             </param>
+            <param index="11">
+              <value>
+                <![CDATA[Your address has been successfully added]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[Your address has been successfully deleted]]>
+              </value>
+            </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Addressupdate -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.oc.qa.TestCases.AddressTest@305f031]" started-at="2024-12-31T00:16:05 IST" name="teardown" finished-at="2024-12-31T00:16:05 IST" duration-ms="254" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.oc.qa.TestCases.AddressTest@21d8bcbe]" started-at="2024-12-31T22:13:01 IST" name="teardown" finished-at="2024-12-31T22:13:01 IST" duration-ms="194" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:com.oc.qa.TestCases.AddressTest@305f031]" started-at="2024-12-31T00:16:05 IST" name="setup" finished-at="2024-12-31T00:16:07 IST" duration-ms="1846" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:com.oc.qa.TestCases.AddressTest@21d8bcbe]" started-at="2024-12-31T22:13:01 IST" name="setup" finished-at="2024-12-31T22:13:02 IST" duration-ms="1680" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -119,7 +117,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="Addressupdate(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.oc.qa.TestCases.AddressTest@305f031]" started-at="2024-12-31T00:16:07 IST" name="Addressupdate" data-provider="AddressUpdate" finished-at="2024-12-31T00:16:17 IST" duration-ms="10381" status="PASS">
+        <test-method signature="Addressupdate(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.oc.qa.TestCases.AddressTest@21d8bcbe]" started-at="2024-12-31T22:13:02 IST" name="Addressupdate" data-provider="AddressUpdate" finished-at="2024-12-31T22:13:06 IST" duration-ms="3501" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -176,15 +174,25 @@
                 <![CDATA[Karnataka]]>
               </value>
             </param>
+            <param index="11">
+              <value>
+                <![CDATA[Your address has been successfully added]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[Your address has been successfully deleted]]>
+              </value>
+            </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Addressupdate -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.oc.qa.TestCases.AddressTest@305f031]" started-at="2024-12-31T00:16:17 IST" name="teardown" finished-at="2024-12-31T00:16:18 IST" duration-ms="346" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.oc.qa.TestCases.AddressTest@21d8bcbe]" started-at="2024-12-31T22:13:06 IST" name="teardown" finished-at="2024-12-31T22:13:06 IST" duration-ms="214" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:com.oc.qa.TestCases.AddressTest@305f031]" started-at="2024-12-31T00:16:18 IST" name="setup" finished-at="2024-12-31T00:16:20 IST" duration-ms="1856" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:com.oc.qa.TestCases.AddressTest@21d8bcbe]" started-at="2024-12-31T22:13:06 IST" name="setup" finished-at="2024-12-31T22:13:08 IST" duration-ms="1687" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -200,7 +208,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="Addressupdate(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.oc.qa.TestCases.AddressTest@305f031]" started-at="2024-12-31T00:16:20 IST" name="Addressupdate" data-provider="AddressUpdate" finished-at="2024-12-31T00:16:31 IST" duration-ms="10937" status="PASS">
+        <test-method signature="Addressupdate(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.oc.qa.TestCases.AddressTest@21d8bcbe]" started-at="2024-12-31T22:13:08 IST" name="Addressupdate" data-provider="AddressUpdate" finished-at="2024-12-31T22:13:11 IST" duration-ms="3618" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -257,15 +265,25 @@
                 <![CDATA[Karnataka]]>
               </value>
             </param>
+            <param index="11">
+              <value>
+                <![CDATA[Your address has been successfully added]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[Your address has been successfully deleted]]>
+              </value>
+            </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Addressupdate -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.oc.qa.TestCases.AddressTest@305f031]" started-at="2024-12-31T00:16:31 IST" name="teardown" finished-at="2024-12-31T00:16:31 IST" duration-ms="336" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.oc.qa.TestCases.AddressTest@21d8bcbe]" started-at="2024-12-31T22:13:11 IST" name="teardown" finished-at="2024-12-31T22:13:12 IST" duration-ms="178" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:com.oc.qa.TestCases.AddressTest@305f031]" started-at="2024-12-31T00:16:31 IST" name="setup" finished-at="2024-12-31T00:16:33 IST" duration-ms="1960" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:com.oc.qa.TestCases.AddressTest@21d8bcbe]" started-at="2024-12-31T22:13:12 IST" name="setup" finished-at="2024-12-31T22:13:13 IST" duration-ms="1599" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -281,7 +299,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="Addressupdate(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.oc.qa.TestCases.AddressTest@305f031]" started-at="2024-12-31T00:16:33 IST" name="Addressupdate" data-provider="AddressUpdate" finished-at="2024-12-31T00:16:43 IST" duration-ms="10453" status="PASS">
+        <test-method signature="Addressupdate(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.oc.qa.TestCases.AddressTest@21d8bcbe]" started-at="2024-12-31T22:13:13 IST" name="Addressupdate" data-provider="AddressUpdate" finished-at="2024-12-31T22:13:17 IST" duration-ms="3535" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -338,93 +356,25 @@
                 <![CDATA[Karnataka]]>
               </value>
             </param>
+            <param index="11">
+              <value>
+                <![CDATA[Your address has been successfully added]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[Your address has been successfully deleted]]>
+              </value>
+            </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Addressupdate -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.oc.qa.TestCases.AddressTest@305f031]" started-at="2024-12-31T00:16:43 IST" name="teardown" finished-at="2024-12-31T00:16:44 IST" duration-ms="321" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.oc.qa.TestCases.AddressTest@21d8bcbe]" started-at="2024-12-31T22:13:17 IST" name="teardown" finished-at="2024-12-31T22:13:17 IST" duration-ms="188" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- com.oc.qa.TestCases.AddressTest -->
-      <class name="com.oc.qa.TestCases.RegistrationTest">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:com.oc.qa.TestCases.RegistrationTest@48c35007]" started-at="2024-12-31T00:15:19 IST" name="setup" finished-at="2024-12-31T00:15:22 IST" duration-ms="3174" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[Windows]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="Acc_RegistrationTest()[pri:0, instance:com.oc.qa.TestCases.RegistrationTest@48c35007]" started-at="2024-12-31T00:15:22 IST" name="Acc_RegistrationTest" finished-at="2024-12-31T00:15:25 IST" duration-ms="2615" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Acc_RegistrationTest -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.oc.qa.TestCases.RegistrationTest@48c35007]" started-at="2024-12-31T00:15:25 IST" name="teardown" finished-at="2024-12-31T00:15:25 IST" duration-ms="309" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- teardown -->
-      </class> <!-- com.oc.qa.TestCases.RegistrationTest -->
-      <class name="com.oc.qa.TestCases.LoginTest">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:com.oc.qa.TestCases.LoginTest@68759011]" started-at="2024-12-31T00:15:25 IST" name="setup" finished-at="2024-12-31T00:15:30 IST" duration-ms="5297" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[Windows]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="Acc_LoginTest()[pri:0, instance:com.oc.qa.TestCases.LoginTest@68759011]" started-at="2024-12-31T00:15:30 IST" name="Acc_LoginTest" finished-at="2024-12-31T00:15:32 IST" duration-ms="2034" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Acc_LoginTest -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.oc.qa.TestCases.LoginTest@68759011]" started-at="2024-12-31T00:15:32 IST" name="teardown" finished-at="2024-12-31T00:15:33 IST" duration-ms="295" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- teardown -->
-      </class> <!-- com.oc.qa.TestCases.LoginTest -->
-      <class name="com.oc.qa.TestCases.SearchProductTest">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:com.oc.qa.TestCases.SearchProductTest@7e242b4d]" started-at="2024-12-31T00:15:33 IST" name="setup" finished-at="2024-12-31T00:15:36 IST" duration-ms="3176" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[Windows]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="SearchproductTest()[pri:0, instance:com.oc.qa.TestCases.SearchProductTest@7e242b4d]" started-at="2024-12-31T00:15:36 IST" name="SearchproductTest" finished-at="2024-12-31T00:15:47 IST" duration-ms="10611" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- SearchproductTest -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.oc.qa.TestCases.SearchProductTest@7e242b4d]" started-at="2024-12-31T00:15:47 IST" name="teardown" finished-at="2024-12-31T00:15:47 IST" duration-ms="252" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- teardown -->
-      </class> <!-- com.oc.qa.TestCases.SearchProductTest -->
     </test> <!-- Master Test Execution -->
   </suite> <!-- Master Suite -->
 </testng-results>

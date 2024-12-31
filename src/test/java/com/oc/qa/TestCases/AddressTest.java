@@ -7,12 +7,12 @@ import com.oc.qa.PageObjects.HomePage;
 import com.oc.qa.PageObjects.LoginPage;
 import com.oc.qa.PageObjects.MyAccountPage;
 import com.oc.qa.TestBase.BaseClass;
-import com.oc.qa.util.DataProviders;
+import com.oc.qa.util.DataProviders_Address;
 
 import junit.framework.Assert;
 public class AddressTest extends BaseClass {
-	@Test(dataProvider="AddressUpdate",dataProviderClass=DataProviders.class,groups="Master")
-	public void Addressupdate(String Email,String Password,String FirstName,String LastName,String Company,String Address1,String Address2,String City, String PostalCode,String Country, String Region)
+	@Test(dataProvider="AddressUpdate",dataProviderClass=DataProviders_Address.class,groups="Master")
+	public void Addressupdate(String Email,String Password,String FirstName,String LastName,String Company,String Address1,String Address2,String City, String PostalCode,String Country, String Region, String SuccessMessage,String DeleteMessage)
 	{
 		try
 		{
@@ -59,17 +59,17 @@ public class AddressTest extends BaseClass {
 		At.City(City);
 		logger.info("Entered Postal Code");
 		At.postalcode(PostalCode);
-		Thread.sleep(3000);
+	//	Thread.sleep(3000);
 		logger.info("Select the Country from the Dropdown");
 		At.Country(Country);
-		Thread.sleep(3000);
+	//	Thread.sleep(3000);
 		logger.info("Select the Region from the Dropdown");
 		At.Region(Region);
 		logger.info("Click on Continue");
 		At.Cont_inue();
 		logger.info("Verify Success message");
 		String msg=At.SuccessMessage();
-		if(msg.equalsIgnoreCase("Your address has been successfully added"))
+		if(msg.equalsIgnoreCase(SuccessMessage))
 		{
 			Assert.assertTrue(true);
 		}
@@ -79,13 +79,28 @@ public class AddressTest extends BaseClass {
 			logger.debug("debug logs");
 			Assert.assertTrue(true);
 		}
+		logger.info("Delete the address");
+		At.DeleteAddress();
 		
+		logger.info("Verified Delete Success message");
+		String deletetxt=At.Deletemessage();	
+		if(deletetxt.equalsIgnoreCase(DeleteMessage))
+		{
+			Assert.assertTrue(true);
+		}
+		else
+		{
+			logger.error("Test Failed");
+			logger.debug("debug logs");
+			Assert.assertTrue(true);	
+		}		
+		}
 		
-	}
 		catch(Exception e)
 		{
 			Assert.fail();
 		}
+		
 	}
 	
 }

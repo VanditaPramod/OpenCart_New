@@ -25,10 +25,10 @@
 
         <!-- Classes to Execute -->
         <classes>
-            <class name="com.oc.qa.TestCases.RegistrationTest" />
+      <!--      <class name="com.oc.qa.TestCases.RegistrationTest" />
             <class name="com.oc.qa.TestCases.LoginTest" />
-       <!--     <class name="com.oc.qa.TestCases.LoginTestDDT" />-->
-            <class name="com.oc.qa.TestCases.SearchProductTest" />
+            <class name="com.oc.qa.TestCases.LoginTestDDT" />
+            <class name="com.oc.qa.TestCases.SearchProductTest" /> -->
             <class name="com.oc.qa.TestCases.AddressTest" />
         </classes>
     </test>

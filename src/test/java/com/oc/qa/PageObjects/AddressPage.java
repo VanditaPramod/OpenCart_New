@@ -1,5 +1,8 @@
 package com.oc.qa.PageObjects;
 
+import java.util.List;
+
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -39,8 +42,15 @@ public class AddressPage extends BasePage {
 	WebElement Cntnue;
 	@FindBy(xpath="//div[@class='alert alert-success alert-dismissible']")
 	WebElement SuccMsg;
-	@FindBy(xpath="//table[@class='table table-bordered table-hover\"]/tbody/tr[2]/td[1]']")
-	WebElement VerifyAddrss;
+//	@FindBy(xpath="//table[@class='table table-bordered table-hover']/tbody/tr")
+//	WebElement AddressRows;
+	@FindBy(xpath="//a[text()='Delete']")
+	WebElement Delete;
+	@FindBy(xpath="//div[@class='alert alert-success alert-dismissible']")
+	WebElement DeleteMessage;
+	
+
+	
 	
 	
 	public void AddressBookEntryURL()
@@ -105,10 +115,21 @@ public class AddressPage extends BasePage {
 			return(e.getMessage());
 		}
 	}
-	public boolean VerifyAddress()
+	public void DeleteAddress()
 	{
-		System.out.println("Address is present");
-		return true;
+		Delete.click();
+	}
+	public String Deletemessage()
+	{
+		try {
+			return(DeleteMessage.getText());
+		}
+		catch(Exception e)
+		{
+			return(e.getMessage());
+		}
+	}
+		
 	}
 	
 	
@@ -130,4 +151,4 @@ public class AddressPage extends BasePage {
 	
 	
 	
-}
+
